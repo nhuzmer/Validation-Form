@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.body{
+  padding-top: 30px;
+  background-image: url('asc.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container-form{
+  color: white;
+  padding: 25px;
+  margin-left: 100px;
+  width: 400px;
+  height: 600px;
+  background-image: url('airsoft.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 25px;
+}
